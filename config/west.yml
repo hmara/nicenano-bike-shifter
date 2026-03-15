@@ -2,7 +2,7 @@
 manifest:
   projects:
     - name: zmk
-      repo: https://github.com/zmkfirmware/zmk
+      url: https://github.com/zmkfirmware/zmk
       revision: main
       path: zmk
   self:
