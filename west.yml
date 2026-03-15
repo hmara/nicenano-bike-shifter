@@ -1,0 +1,9 @@
+# west.yml (placed in repo root)
+manifest:
+  projects:
+    - name: zmk
+      repo: https://github.com/zmkfirmware/zmk
+      revision: main
+      path: zmk
+  self:
+    path: .
